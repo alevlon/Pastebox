@@ -1,0 +1,3 @@
+app:
+  host: http://pastebox.alevlon.ua
+  public_list_size: 10
